@@ -1,0 +1,72 @@
+body{
+    background-image: url(img/hatter.jpg);
+    font-family:Arial ;
+}
+.nev{
+    background-image: url(img/fejlec.jpg);
+    width: 1103px;
+    height: 150px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 500px;
+    border: 0px;
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+    color: #484848;
+}
+
+.szoveg{
+    background-color: #FFFFFF;
+    background-image: url(img/tartalomkep.jpg);
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-size: 450px;
+    border: 0px;
+    width: 830px;
+    height: 700px;
+    margin-right: 276px;
+    float: right;
+}
+.elerhetoseg{
+    background-image: url(img/menukep.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 275px;
+    width: 234px;
+    height: 700px;
+    margin-left: 500px;
+    background-color: #E8E8E8;
+    border: 0px;
+    
+    text-align: left;
+}
+h2{
+    text-align: left;
+    color: #800000;
+}
+.bal{
+    line-height: 0.9;
+    color: #800000;     
+    margin-left: 50px;
+}
+
+
+#telefon{
+    color: #800000;
+    margin-left: 50px;
+    font-size: 13px;
+    line-height: 2;
+}
+#email{
+   color: #800000;
+   margin-left: 50px; 
+   font-size: 13px;
+}
+.sokszoveg{
+    color: #484848;
+    font-size: 22px;
+    text-align: justify;
+    
+}
